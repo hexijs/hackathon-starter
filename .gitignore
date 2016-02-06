@@ -27,3 +27,6 @@ bower_components
 # OS metadata
 .DS_Store
 Thumbs.db
+
+public/css/main.css
+public/css/main.css.map
